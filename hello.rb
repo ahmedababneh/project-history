@@ -7,6 +7,7 @@ def hello
 
 iThis is a file
 lolo momo
+hey hey
 end
 
 hello()
