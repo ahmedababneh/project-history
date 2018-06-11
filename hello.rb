@@ -1,3 +1,4 @@
+<<<<<<< hello.ours.rb
 #! /usr/bin/env ruby
 
 /*This is the hello function*/
